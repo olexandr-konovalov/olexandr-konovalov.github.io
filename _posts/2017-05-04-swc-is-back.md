@@ -1,14 +1,15 @@
 ---
-title: 'Back by popular demand'
+title: 'Software Carpentry: back by popular demand'
 date: 2017-05-04
 permalink: /posts/2017/05/swc-is-back/
 tags:
   - software carpentry
 ---
 
-Jointly with [CAPOD](https://www.st-andrews.ac.uk/capod/) and
+Jointly with [CAPOD](https://www.st-andrews.ac.uk/capod/),
 [Research Computing](https://www.st-andrews.ac.uk/libraryblog/research-computing/),
-we have recently organised a 
+and [Leighton Pritchard (The James Hutton Institute)](http://www.hutton.ac.uk/staff/leighton-pritchard),
+we have recently run a 
 [Software Carpentry workshop](https://alex-konovalov.github.io/2017-03-23-standrews/)
 where we taught Unix shell, version control with Git, and programming
 with Python to more than 20 staff members and postgraduate students of the
