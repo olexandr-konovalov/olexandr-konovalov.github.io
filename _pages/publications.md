@@ -1,16 +1,25 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For publications, see my entry in
+[Pure (Research@StAndrews portal)](https://risweb.st-andrews.ac.uk/portal/en/persons/alexander-konovalov%28fa3ee225-1bbd-408f-884a-f9a715bf86d5%29/researchoutput.html).
 
-{% include base_path %}
+You can also find my publications on:
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [my Google Scholar profile](https://scholar.google.co.uk/citations?user=w-Jvae8AAAAJ&hl=en)
+* [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg1=IID&amp;s1=367484)
+* [my ORCID profile](http://orcid.org/0000-0001-5299-3292)
+* [ImpactStory](https://impactstory.org/u/0000-0001-5299-3292)
+* [arXiv](https://arxiv.org/a/konovalov_a_1.html)
+* [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Konovalov:Alexander.html)
+
+My [Erdös number](http://www.oakland.edu/enp/) is 3:
+[MR2328163](http://www.ams.org/mathscinet-getitem?mr=2328163) -
+[MR1485227](http://www.ams.org/mathscinet-getitem?mr=1485227) -
+[MR1119683](http://www.ams.org/mathscinet-getitem?mr=1119683).
+
+Some earlier publications and talks (with some downloads) are also available on 
+my [previous homepage](http://alexk.host.cs.st-andrews.ac.uk/publicat.htm).
