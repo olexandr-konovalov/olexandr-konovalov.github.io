@@ -1,7 +1,7 @@
 ---
 title: 'Software Carpentry: back by popular demand'
 date: 2017-05-04
-permalink: /posts/2017/05/swc-is-back/
+permalink: /posts/2017/05/04/swc-is-back/
 tags:
   - software carpentry
 ---

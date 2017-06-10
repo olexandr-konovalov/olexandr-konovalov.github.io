@@ -1,7 +1,7 @@
 ---
 title: 'Publishing Software Carpentry lesson on GAP'
 date: 2016-11-22
-permalink: /posts/2016/11/publishing-software-carpentry-lesson-on-gap/
+permalink: /posts/2016/11/22/publishing-software-carpentry-lesson-on-gap/
 tags:
   - software carpentry
   - codima

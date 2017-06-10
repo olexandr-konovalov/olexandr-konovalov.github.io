@@ -1,7 +1,7 @@
 ---
 title: 'Data Carpentry lesson on spreadsheets'
 date: 2017-05-04
-permalink: /posts/2017/05/dc-spreadsheets/
+permalink: /posts/2017/05/04/dc-spreadsheets/
 tags:
   - software carpentry
 ---

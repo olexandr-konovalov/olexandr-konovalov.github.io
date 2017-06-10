@@ -1,7 +1,7 @@
 ---
 title: 'GAP Tutorial in Birmingham'
 date: 2017-06-10
-permalink: /posts/2017/06/gap-tutorial/
+permalink: /posts/2017/06/10/gap-tutorial/
 tags:
   - codima
   - software carpentry
