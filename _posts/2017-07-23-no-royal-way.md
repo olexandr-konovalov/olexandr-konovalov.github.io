@@ -1,7 +1,7 @@
 ---
 title: 'There is no royal way in computational algebra'
 date: 2017-07-23
-permalink: /posts/2017/06/10/no-royal-way/
+permalink: /posts/2017/07/23/no-royal-way/
 tags:
   - research software
 ---
