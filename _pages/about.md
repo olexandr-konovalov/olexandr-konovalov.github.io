@@ -24,7 +24,7 @@ to automate routine calculations and to find arguments needed for proofs.
 This often requires substantial computational resources and combining
 different tools, which has naturally led me into the area of parallel
 computations and interfaces design. I have been involved in the 
-EPRSC-funded HPC-GAP project where we working on reengineering the GAP
+EPRSC-funded HPC-GAP project where we worked on reengineering the GAP
 system to take advantage of the power of current and future high-performance
 computers, and prior to that – in the European project 
 [SCIEnce - Symbolic Computation Infrastructure for Europe](http://www.symbolic-computing.org/).
