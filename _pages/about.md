@@ -37,5 +37,4 @@ and the [GAP Support group](http://www.gap-system.org/Contacts/People/supportgro
 a Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/),
 an editor of the [Journal of Software for Algebra and Geometry](http://j-sag.org/)
 and the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/),
-and an instructor for [Software Carpentry](https://software-carpentry.org/)
-and [Data Carpentry](http://www.datacarpentry.org/).
+and an Instructor and a Trainer for [the Carpentries](https://carpentries.org/).
