@@ -109,6 +109,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Impactstory</a></li>
       {% endif %}
+      {% if author.pure %}
+        <li><a href="{{ author.pure }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Pure (Research Portal)</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
