@@ -11,6 +11,7 @@ You can also find my publications on:
 
 * [my Google Scholar profile](https://scholar.google.co.uk/citations?user=w-Jvae8AAAAJ&hl=en)
 * [MathSciNet](http://www.ams.org/mathscinet/search/publications.html?pg1=IID&amp;s1=367484)
+* [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=99659345209)
 * [my ORCID profile](http://orcid.org/0000-0001-5299-3292)
 * [ImpactStory](https://impactstory.org/u/0000-0001-5299-3292)
 * [arXiv](https://arxiv.org/a/konovalov_a_1.html)
