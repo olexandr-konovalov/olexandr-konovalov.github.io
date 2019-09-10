@@ -7,6 +7,11 @@ redirect_from:
   - /about/
 ---
 
+I am leading the newly established
+[Research Software Group](https://rse.cs.st-andrews.ac.uk/)
+at the [School of Computer Science](https://www.cs.st-andrews.ac.uk/) of the
+[University of St Andrews](https://www.st-andrews.ac.uk/).
+
 I am a member of the 
 [Centre for Interdisciplinary Research in Computational Algebra](https://twitter.com/CIRCA_StAndrews)
 and one of the developers of the open-source system 
