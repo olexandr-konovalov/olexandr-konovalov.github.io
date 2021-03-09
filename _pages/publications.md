@@ -15,7 +15,7 @@ You can also find my publications on:
 * [my ORCID profile](http://orcid.org/0000-0001-5299-3292)
 * [ImpactStory](https://impactstory.org/u/0000-0001-5299-3292)
 * [arXiv](https://arxiv.org/a/konovalov_a_1.html)
-* [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Konovalov:Alexander.html)
+* [DBLP](https://dblp.uni-trier.de/pid/34/5510.html)
 
 My [Erdös number](http://www.oakland.edu/enp/) is three, and can be calculated by two different paths:
 * [MR3495665](http://www.ams.org/mathscinet-getitem?mr=3495665) - [MR2466910](http://www.ams.org/mathscinet-getitem?mr=2466910) - [MR2437964](http://www.ams.org/mathscinet-getitem?mr=2437964)
