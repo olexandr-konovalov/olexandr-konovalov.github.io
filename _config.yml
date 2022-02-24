@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Alexander Konovalov"
+title                    : "Dr. Olexandr Konovalov"
 title_separator          : "-"
-name                     : &name "Dr. Alexander Konovalov"
+name                     : &name "Dr. Olexandr Konovalov"
 description              : &description "Lecturer at the School of Computer Science"
 url                      : https://alex-konovalov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Alexander Konovalov"
+  name             : "Dr. Olexandr Konovalov"
   avatar           : "profile.png"
   bio              : "Lecturer at the School of Computer Science"
   location         : "University of St Andrews"
