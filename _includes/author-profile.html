@@ -103,6 +103,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.zbmath %}
+        <li><a href="{{ author.zbmath }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> zbMATH</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
