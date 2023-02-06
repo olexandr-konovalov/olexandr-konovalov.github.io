@@ -11,9 +11,9 @@ title                    : "Dr. Olexandr Konovalov"
 title_separator          : "-"
 name                     : &name "Dr. Olexandr Konovalov"
 description              : &description "Lecturer at the School of Computer Science"
-url                      : https://alex-konovalov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://olexandr-konovalov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alex-konovalov/alex-konovalov.github.io"
+repository               : "olexandr-konovalov/olexandr-konovalov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alex-konovalov"
+  github           : "olexandr-konovalov"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,9 +103,9 @@ author:
   orcid            : "http://orcid.org/0000-0001-5299-3292"
   impactstory      : "https://impactstory.org/u/0000-0001-5299-3292"
   pinterest        :
-  pure             : "https://risweb.st-andrews.ac.uk/portal/en/persons/alexander-konovalov(fa3ee225-1bbd-408f-884a-f9a715bf86d5).html"
+  pure             : "https://risweb.st-andrews.ac.uk/portal/en/persons/olexandr-konovalov(fa3ee225-1bbd-408f-884a-f9a715bf86d5).html"
   soundcloud       :
-  stackoverflow    : "https://math.stackexchange.com/users/70316/alexander-konovalov"
+  stackoverflow    : "https://math.stackexchange.com/users/70316/olexandr-konovalov"
   steam            :
   tumblr           :
   twitter          :
