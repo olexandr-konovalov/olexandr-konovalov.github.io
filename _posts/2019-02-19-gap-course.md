@@ -12,7 +12,7 @@ an open source system for computational discrete algebra, we invite you to
 come on Wednesday 20th February to Maths Theatre D at 2pm.
 We are starting to use the first hour of weekly meetings on Semigroups and 
 Digraphs in GAP that take place on Wednesdays to give an introduction to GAP using the 
-[__Software Carpentry lesson "Programming with GAP"__](http://alex-konovalov.github.io/gap-lesson/).
+[__Software Carpentry lesson "Programming with GAP"__](http://olexandr-konovalov.github.io/gap-lesson/).
 
 This lesson is centred around a common task of searching in the Small Groups 
 Library for interesting examples and counterexamples, and a particular research 

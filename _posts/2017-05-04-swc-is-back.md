@@ -10,12 +10,12 @@ Jointly with [CAPOD](https://www.st-andrews.ac.uk/capod/),
 [Research Computing](https://www.st-andrews.ac.uk/libraryblog/research-computing/),
 and [Leighton Pritchard (The James Hutton Institute)](http://www.hutton.ac.uk/staff/leighton-pritchard),
 we have recently run a 
-[Software Carpentry workshop](https://alex-konovalov.github.io/2017-03-23-standrews/)
+[Software Carpentry workshop](https://olexandr-konovalov.github.io/2017-03-23-standrews/)
 where we taught Unix shell, version control with Git, and programming
 with Python to more than 20 staff members and postgraduate students of the
 University of St Andrews. The workshop was very quickly oversubscribed, and
 to meet these demands, we will run another one on May 18th-19th.
-Please see [this page](https://alex-konovalov.github.io/2017-05-18-standrews/)
+Please see [this page](https://olexandr-konovalov.github.io/2017-05-18-standrews/)
 for further details and registration instructions.
 
 Please come if you are interested in any of the mentioned topics. 

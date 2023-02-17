@@ -9,7 +9,7 @@ tags:
 
 Following the [2nd CoDiMa training school](http://www.codima.ac.uk/school2016/), 
 I have published the 
-[Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/) 
+[Software Carpentry lesson on GAP](http://olexandr-konovalov.github.io/gap-lesson/) 
 via Zenodo: see [10.5281/zenodo.167362](http://doi.org/10.5281/zenodo.167362). 
 The lesson is based on the problem of determining an average order of an element 
 of a finite group, and finding examples of groups for which the average order of 
@@ -91,9 +91,9 @@ Is it possible for the reader to follow it for self-studying? Is there any
 introductory material missing, or is there an interest in having more advanced 
 lesson(s) on some other aspects of the GAP system? If you would like to 
 contribute to its further development, issues and pull requests to its repository 
-on [GitHub](https://github.com/alex-konovalov/gap-lesson) are most welcome! Also, 
+on [GitHub](https://github.com/olexandr-konovalov/gap-lesson) are most welcome! Also, 
 we invite collaborators interested in developing a lesson on 
 [SageMath](http://www.sagemath.org/): please look at 
-[this repository](https://github.com/alex-konovalov/sage-lesson) and add a 
-comment to [this issue](https://github.com/alex-konovalov/sage-lesson/issues/1) 
+[this repository](https://github.com/olexandr-konovalov/sage-lesson) and add a 
+comment to [this issue](https://github.com/olexandr-konovalov/sage-lesson/issues/1) 
 if you’re interested in contributing.
