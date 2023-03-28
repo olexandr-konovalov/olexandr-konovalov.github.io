@@ -1,5 +1,5 @@
 ---
-title: 'Open Science training for Ukraine: the Carpentries approach'
+title: 'Towards Open Science training for Ukraine: translating Software Carpentry lessons'
 date: 2023-03-28
 permalink: /posts/2023/03/28/carpentries-translation/
 ---
