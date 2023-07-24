@@ -9,3 +9,5 @@ is gradually getting shape: the ["Research Software Camp: FAIR software"](https:
 organised by the [Software Sustainability Institute](https://software.ac.uk/)
 will include a pilot workshop on version control in Git, which will be taught
 in Ukrainian on June 27th. [__Click here to register__](https://www.eventbrite.co.uk/e/git-version-control-in-git-tickets-650799186887)!
+
+**Update:** the recording of the workshop is now [available here](https://www.youtube.com/watch?v=RAaROljwy38).
