@@ -9,9 +9,12 @@ redirect_from:
 
 I am a lecturer in the [School of Computer Science](https://www.cs.st-andrews.ac.uk/)
 of the [University of St Andrews](https://www.st-andrews.ac.uk/), where
-I am leading the [Research Software Group](https://rse.cs.st-andrews.ac.uk/).
+I am leading the [Research Software Group](https://rse.cs.st-andrews.ac.uk/),
+focussed on interdisciplinary computational research and development of underpinning
+research software, training in scientific computing, and studies in research software
+aspects.
 
-I am a member of the 
+I am also a member of the 
 [Centre for Interdisciplinary Research in Computational Algebra](https://twitter.com/CIRCA_StAndrews)
 and one of the developers of the open-source system 
 [GAP](http://www.gap-system.org/), which is used for research and teaching in 
