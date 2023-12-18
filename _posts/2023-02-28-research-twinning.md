@@ -16,3 +16,5 @@ talks and posters is 6th of March 2023.
 
 Please see [https://digital-ukraine.co.uk/](https://digital-ukraine.co.uk/)
 for further details.
+
+**Update:** BCS has published an article about this conference, [available here](https://www.bcs.org/articles-opinion-and-research/digital-collaboration-between-uk-and-ukraine/).
