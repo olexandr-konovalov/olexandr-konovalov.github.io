@@ -4,8 +4,6 @@ date: 2024-02-24
 permalink: /posts/2024/02/24/personal-digital-decolonisation/
 ---
 
-# My personal digital decolonisation
-
 A year ago, I have asked my colleagues to stop calling me "Alex"
 and use only "Olexandr", sharing with them an earlier version 
 of this post. Today, I would like to share this story with you.
