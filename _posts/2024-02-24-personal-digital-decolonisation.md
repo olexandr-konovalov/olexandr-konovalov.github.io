@@ -150,7 +150,7 @@ someone else named "Alexander Konovalov" and added them to my profile,
 inferring wrong affiliation from their details in an offending way.
 This was reported to Scopus, and was fixed by them within a couple of days.
 
-- Association for Computing Machinery ([ACM](https://www.acm.org/)
+- Association for Computing Machinery ([ACM](https://www.acm.org/))
 was the only service that asked me to fill in and sign the official
 name change form. After that, they have put this in the queue for
 manual updates of their database. It took them nine months to update
@@ -258,7 +258,7 @@ process, but I am getting there.
 
 ## Conclusions
 
-I have started with some historical background details.
+I have started this post with some historical background details.
 If you are well informed about Ukraine, perhaps you haven't
 read anything new - yet another personal story illustrating and
 confirming what was already said many times by others (if you
