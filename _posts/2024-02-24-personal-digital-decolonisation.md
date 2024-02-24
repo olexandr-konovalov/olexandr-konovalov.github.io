@@ -94,7 +94,7 @@ nobody would ever call me "Alex" in Ukrainian or Russian. Thus,
 I thought of it as of a kind of my British name, without negative
 connotations. But then... Kharkiv. Enerhodar. Mariupol. Azovstal.
 Bucha. Irpin. Kramatorsk. Kremenchuk. Izyum. Zaporizhzhia. Kyiv.
-Bakhmut. Dnipro. Just impossible everything here. And after
+Bakhmut. Dnipro. Just impossible to list everything here. And after
 each next missile strike, after each new Russian atrocity, I was less
 and less keen to use the name "Alex" as a reminder that it is derived
 from "Alexander".
