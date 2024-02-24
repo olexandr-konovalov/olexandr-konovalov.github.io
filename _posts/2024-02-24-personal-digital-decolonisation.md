@@ -191,8 +191,8 @@ updated (like DBLP, who did this, but only for the most recent papers).
 The rest of this post is related to my use of [GitHub](https://github.com/)
 and [Zenodo](https://zenodo.org/) for developing and publishing research
 software, and includes a lot of technical details. If you are not using
-these platforms, please feel free to proceed to the last paragraph.
-Otherwise, for [GitHub](https://github.com/), I've discovered that one
+these platforms, please feel free to jump to the last paragraph of this
+section. Otherwise, for [GitHub](https://github.com/), I've discovered that one
 can actually change their GitHub username: see e.g.
 [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-
 your-personal-account-on-github/managing-personal-account-settings/
