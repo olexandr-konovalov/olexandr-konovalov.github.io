@@ -85,3 +85,7 @@ for Ukrainian-speaking audience, and start to build a community of the Carpentri
 instructors in Ukraine (translation of the instructor training curriculum is already
 in progress). Please contact me if you're interested to learn more and take part
 in this initiative!
+
+**Update:** [2024-06-16] The Carpentries Workshop Template has been
+translated as well: [https://ukrainian-carpentries.github.io/workshop-template/](https://ukrainian-carpentries.github.io/workshop-template/).
+
