@@ -86,6 +86,9 @@ instructors in Ukraine (translation of the instructor training curriculum is alr
 in progress). Please contact me if you're interested to learn more and take part
 in this initiative!
 
-**Update:** [2024-06-16] The Carpentries Workshop Template has been
+**Update 1:** [2024-06-16] The Carpentries Workshop Template has been
 translated as well: [https://ukrainian-carpentries.github.io/workshop-template/](https://ukrainian-carpentries.github.io/workshop-template/).
 
+**Update 2:** [2024-06-25] I have a short talk about this, with some most
+recent updates, at the SSI Fellows Community Call on 11th June 2024. Its
+recording is available [here](https://www.youtube.com/watch?v=kyp8B3VNapM).
