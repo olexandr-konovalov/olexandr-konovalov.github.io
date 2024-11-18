@@ -92,3 +92,13 @@ translated as well: [https://ukrainian-carpentries.github.io/workshop-template/]
 **Update 2:** [2024-06-25] I have a short talk about this, with some most
 recent updates, at the SSI Fellows Community Call on 11th June 2024. Its
 recording is available [here](https://www.youtube.com/watch?v=kyp8B3VNapM).
+
+**Update 3:** [2024-11-18] In summer 2024 we run a STEP project
+"Adding Ukrainian translations to Glosario - an open source glossary of terms used in computing and data science"
+(you can find its description at the bottom of
+the [STEP 2024 page](https://www.st-andrews.ac.uk/ceed/summer-enterprise-programme/)).
+It resulted in translating about 15% of Glosario terms into Ukrainian, available at
+[https://glosario.carpentries.org/uk](https://glosario.carpentries.org/uk/). If you
+are interested in contributing to Glosario, please see the documentation at
+[https://github.com/carpentries/glosario](https://github.com/carpentries/glosario)
+and ask me if you need any help to begin.
