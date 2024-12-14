@@ -74,8 +74,8 @@ to respond to pink sticky notes when learners needed help (for the news item and
 ["В Острозькій академії відбувся весняний семінар комп'ютерної школи"](https://www.oa.edu.ua/ua/info/news/2024/06-03-01)).
 
 Furthermore, Zaporizhzhia Polytechnic is now using the Git lesson as a
-foundation for one of the courses for the PhD students of the department
-of Computer Science and IT.
+foundation for one of the courses for the PhD students of the Department
+of System Analysis and Computational Mathematics.
 
 The next goal is having available online a full set of lessons for a standard
 Python, R or GAP based Software Carpentry workshop. Once at least one of these
