@@ -8,6 +8,8 @@ This is an overview of the current state of the project of translating
 Software Carpentry lessons into Ukrainian language. It accompanies the 
 [slide of my lightning talk](https://zenodo.org/records/10995105) at the
 [Collaborations Workshop 2024](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24).
+It is also [republished on The Carpentries website](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/),
+but without the updates at the end of this post.
 
 This project was initiated by me in summer 2022, and after getting some initial
 practice with the translation toolchain in a small team,
