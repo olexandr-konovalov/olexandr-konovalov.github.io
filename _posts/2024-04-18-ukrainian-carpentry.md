@@ -104,3 +104,6 @@ It resulted in translating about 15% of Glosario terms into Ukrainian, available
 are interested in contributing to Glosario, please see the documentation at
 [https://github.com/carpentries/glosario](https://github.com/carpentries/glosario)
 and ask me if you need any help to begin.
+
+**Update 4:** [2025-04-06] The Ukrainian Carpentries Community page is now available
+at [https://ukrainian-carpentries.github.io/](https://ukrainian-carpentries.github.io/).
