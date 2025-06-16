@@ -17,7 +17,8 @@ aspects.
 I am a Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/),
 and an [Instructor](https://carpentries.org/instructors/) and
 a [Trainer](https://carpentries.org/trainers/) for [the Carpentries](https://carpentries.org/),
-where I am also coordinating the [Ukrainian Carpentries Community](https://ukrainian-carpentries.github.io/).
+where I am also coordinating the [Ukrainian Carpentries Community](https://ukrainian-carpentries.github.io/)
+and participating in the [Carpentries in St Andrews](https://carpentries.wp.st-andrews.ac.uk/).
 
 I am also an editor of several journals publishing on research software:
 the [Journal of Open Source Software](https://joss.theoj.org/),
