@@ -39,4 +39,5 @@ EU Framework 6 project 26133 "SCIEnce - Symbolic Computation Infrastructure for 
 EPRSC-funded projects HPC-GAP and [CCP CoDiMa – Collaborative Computational Project in Computational Discrete Mathematics](https://blogs.cs.st-andrews.ac.uk/codima/),
 and also the [Horizon 2020 OpenDreamKit project](https://opendreamkit.org/).
 I am a member of the [GAP Council](https://www.gap-system.org/Contacts/People/Council/council.html)
-and the [GAP Support group](https://www.gap-system.org/Contacts/People/supportgroup.html).
+and the [GAP Support group](https://www.gap-system.org/Contacts/People/supportgroup.html), and
+I have authored and/or maintained a number of GAP packages, the list of which is available [here](https://www.gap-system.org/packages/#konovalov).
