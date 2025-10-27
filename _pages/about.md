@@ -14,7 +14,7 @@ focussed on interdisciplinary computational research and development of underpin
 research software, training in scientific computing, and studies in research software
 aspects.
 
-I am a Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/),
+I am a [Fellow](https://www.software.ac.uk/fellowship-programme/olexandr-konovalov) of the [Software Sustainability Institute](https://www.software.ac.uk/),
 and an [Instructor](https://carpentries.org/instructors/) and
 a [Trainer](https://carpentries.org/trainers/) for [the Carpentries](https://carpentries.org/),
 where I am also coordinating the [Ukrainian Carpentries Community](https://ukrainian-carpentries.github.io/)
