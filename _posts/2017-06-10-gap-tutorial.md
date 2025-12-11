@@ -6,7 +6,7 @@ tags:
   - codima
   - software carpentry
 ---
-Jointly with Sergey Shpectorov (Birmingham), I am organising a 
+I am co-organising a 
 **[GAP Tutorial in Birmingham](https://www.codima.ac.uk/gsta2017/)**
 on August 13th-14th. It will immediately follow 
 [Groups St Andrews 2017 in Birmingham](http://www.groupsstandrews.org/2017/),
