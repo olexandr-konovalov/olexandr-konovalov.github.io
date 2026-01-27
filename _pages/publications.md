@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 For publications, see my entry in
-[Pure (Research@StAndrews portal)](https://risweb.st-andrews.ac.uk/portal/en/persons/olexandr-konovalov(fa3ee225-1bbd-408f-884a-f9a715bf86d5).html).
+[Pure (Research@StAndrews portal)](https://www.st-andrews.ac.uk/computer-science/people/obk1/).
 
 You can also find my publications on:
 
