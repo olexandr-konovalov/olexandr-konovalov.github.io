@@ -36,7 +36,7 @@ I was actively involved in everyday aspects
 of GAP development, including release management, regression tests,
 liaising with package authors, as well as technical support and user training. I worked on the
 EU Framework 6 project 26133 "SCIEnce - Symbolic Computation Infrastructure for Europe",
-EPRSC-funded projects HPC-GAP and [CCP CoDiMa – Collaborative Computational Project in Computational Discrete Mathematics](https://blogs.cs.st-andrews.ac.uk/codima/),
+EPRSC-funded projects HPC-GAP and [CCP CoDiMa – Collaborative Computational Project in Computational Discrete Mathematics](https://archive.cs.st-andrews.ac.uk/codima/),
 and also the [Horizon 2020 OpenDreamKit project](https://opendreamkit.org/).
 I am a member of the [GAP Council](https://www.gap-system.org/Contacts/People/Council/council.html)
 and the [GAP Support group](https://www.gap-system.org/Contacts/People/supportgroup.html), and
